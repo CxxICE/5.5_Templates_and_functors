@@ -22,15 +22,15 @@
 
 ### Задание 1
 
-[Возведение в квадрат](https://github.com/netology-code/cppl-homeworks/tree/main/05/01).
+[Возведение в квадрат](01).
 
 ### Задание 2
 
-[Таблица](https://github.com/netology-code/cppl-homeworks/tree/main/05/02).
+[Таблица](02).
 
 ### Задание 3
 
-[Счётчик чисел](https://github.com/netology-code/cppl-homeworks/tree/main/05/03).
+[Счётчик чисел](03).
 
 ------
 
